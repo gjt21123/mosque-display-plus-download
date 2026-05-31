@@ -4,7 +4,11 @@
 
 ## التحميل المباشر
 
-استخدم هذه الروابط مباشرة بدون الدخول إلى صفحة Releases:
+رابط Downloader القديم الثابت لتطبيق الشاشة لم يتغير:
+
+- تطبيق الشاشة للتلفزيون: [mosque-display-plus-display-v0.1.0-dev1.apk](https://github.com/gjt21123/mosque-display-plus-download/releases/download/v0.1.0-dev1/mosque-display-plus-display-v0.1.0-dev1.apk)
+
+روابط مباشرة إضافية من المستودع العام بدون الدخول إلى صفحة Releases:
 
 - تطبيق الشاشة للتلفزيون: [تحميل mosque-display-plus-display.apk](https://raw.githubusercontent.com/gjt21123/mosque-display-plus-download/main/downloads/mosque-display-plus-display.apk)
 - تطبيق الأدمن للجوال: [تحميل mosque-display-plus-admin.apk](https://raw.githubusercontent.com/gjt21123/mosque-display-plus-download/main/downloads/mosque-display-plus-admin.apk)
@@ -14,6 +18,7 @@
 
 هذه روابط GitHub Release مباشرة، ولا تحتاج فتح صفحة الإصدارات:
 
+- Display APK fixed old filename: <https://github.com/gjt21123/mosque-display-plus-download/releases/download/v0.1.0-dev1/mosque-display-plus-display-v0.1.0-dev1.apk>
 - Display APK: <https://github.com/gjt21123/mosque-display-plus-download/releases/latest/download/mosque-display-plus-display.apk>
 - Admin APK: <https://github.com/gjt21123/mosque-display-plus-download/releases/latest/download/mosque-display-plus-admin.apk>
 
@@ -22,7 +27,7 @@
 1. افتح تطبيق Downloader على التلفزيون.
 2. أدخل رابط تطبيق الشاشة المباشر:
 
-   `https://raw.githubusercontent.com/gjt21123/mosque-display-plus-download/main/downloads/mosque-display-plus-display.apk`
+   `https://github.com/gjt21123/mosque-display-plus-download/releases/download/v0.1.0-dev1/mosque-display-plus-display-v0.1.0-dev1.apk`
 
 3. حمّل الملف وثبّت التطبيق.
 4. إذا ظهر تحذير مصادر غير معروفة، فعّل السماح لـ Downloader من إعدادات الجهاز ثم أعد التثبيت.
