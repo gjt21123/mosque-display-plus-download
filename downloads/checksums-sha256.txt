@@ -1,0 +1,2 @@
+fb087bb0632d7a485a05fe934c1823cb2804f24c0ce79f3e749ec01c33838e1a  mosque-display-plus-display.apk
+d1cb881500e9b9c23c7cfd68c0821152b6f94db9fb05cefb042c2c9f6c6b5a64  mosque-display-plus-admin.apk
