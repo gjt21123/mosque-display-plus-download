@@ -2,6 +2,8 @@
 
 مستودع عام مخصص لتحميل تطبيق Mosque Display Plus فقط. كود المشروع الأساسي محفوظ في المستودع الخاص.
 
+آخر تحديث: 2026-06-04
+
 ## التحميل المباشر
 
 رابط Downloader القديم الثابت لتطبيق الشاشة لم يتغير:
@@ -21,6 +23,11 @@
 - Display APK fixed old filename: <https://github.com/gjt21123/mosque-display-plus-download/releases/download/v0.1.0-dev1/mosque-display-plus-display-v0.1.0-dev1.apk>
 - Display APK: <https://github.com/gjt21123/mosque-display-plus-download/releases/latest/download/mosque-display-plus-display.apk>
 - Admin APK: <https://github.com/gjt21123/mosque-display-plus-download/releases/latest/download/mosque-display-plus-admin.apk>
+
+## SHA-256
+
+- Display APK: `0535ab60cef0b7000ce291c8cc502f375ee8731e38196ef674aae890922dbbaf`
+- Admin APK: `f201ace2b14bc0257ed8e342e58414a891ac4e0484ddcbb435107baa6270d142`
 
 ## التثبيت عبر Downloader على Android TV
 
