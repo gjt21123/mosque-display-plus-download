@@ -1,3 +1,4 @@
-f201ace2b14bc0257ed8e342e58414a891ac4e0484ddcbb435107baa6270d142  mosque-display-plus-admin.apk
-0535ab60cef0b7000ce291c8cc502f375ee8731e38196ef674aae890922dbbaf  mosque-display-plus-display-v0.1.0-dev1.apk
-0535ab60cef0b7000ce291c8cc502f375ee8731e38196ef674aae890922dbbaf  mosque-display-plus-display.apk
+e71b476939f21dfff833f53b9215ba8cc26682528bb0dd248469b533bee69c4f  mosque-display-plus-admin.apk
+bb9cd8fac3043434859ccc84cbbb5ea467c56c28f56e5bfa2693d4f79ec752d9  mosque-display-plus-display-v0.1.0-dev1.apk
+bb9cd8fac3043434859ccc84cbbb5ea467c56c28f56e5bfa2693d4f79ec752d9  mosque-display-plus-display.apk
+private-source-commit  9e98259678f6515b651becafb2808bac090357f9
